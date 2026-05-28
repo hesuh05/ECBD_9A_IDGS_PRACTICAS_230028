@@ -18,7 +18,7 @@ Este repositorio contendrá los resultados de las prácticas de la materia para 
 Numero Descripción Potenciador Estatus
 | Número | Descripción | Potenciador | Estatus |
 |----------|:-------------:|------:|------:|
-| 1. | <a src="https://github.com/hesuh05/ECBD_9A_IDGS_PRACTICAS_230028/blob/Practica-03/practicas/PRACTICA_03/practica03_230028.ipynb">Practica 1 </a>| N/A | Pendiente |
+| 1. | [Practica 1](https://github.com/hesuh05/ECBD_9A_IDGS_PRACTICAS_230028/blob/Practica-03/practicas/PRACTICA_03/practica03_230028.ipynb)| N/A | Pendiente |
 
 
 kaggle.com/code/balcosandreaa/pokemons-a-story-of-eda-visualizing/notebook
